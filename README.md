@@ -41,7 +41,8 @@ I'm currently a Computer Science student at UFRPE, I'm familiar with Java and I'
   
 
 pt-BR, EN  
- 
+  
+  </td></tr></table>
 
 <br/>  
 
