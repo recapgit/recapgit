@@ -1,6 +1,8 @@
-## About me 👋  
-  
+<img src="https://thumbs.gfycat.com/RichAmbitiousDiplodocus-max-1mb.gif" align="center" style="width: 100%" />
+</div>  
 
+
+## About me 👋  
 
 
 ### Visit counter  
