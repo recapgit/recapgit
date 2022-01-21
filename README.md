@@ -41,13 +41,7 @@ I'm currently a Computer Science student at UFRPE, I'm familiar with Java and I'
   
 
 pt-BR, EN  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
@@ -91,4 +85,4 @@ pt-BR, EN
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">I made this using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator, it's really good, take a look!</a></div>
