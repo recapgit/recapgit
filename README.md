@@ -86,4 +86,4 @@ pt-BR, EN
 <br />
 
 ----
-<div align="center">I made this using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>, it's really good, take a look!</div>
+<div align="center">I made this using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>, and turns out it's really good, take a look</div>
