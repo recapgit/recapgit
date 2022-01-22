@@ -23,11 +23,11 @@
 
 
 ### Bem vindo(a) ao meu perfil - Welcome to my profile
-Atualmente sou um estudante de Ciência da Computação na UFRPE, sou familiarizado com Java e estou aprendendo aos poucos front-end, e depois disso tenho vontade de tentar aprender Node e SQL.
+Atualmente sou um estudante de Ciência da Computação na UFRPE, sou familiarizado com Java e estou aprendendo aos poucos front-end, e depois disso tenho vontade de tentar aprender Js + Node e Banco de dados.
 
 EN
 
-I'm currently a Computer Science student at UFRPE, I'm familiar with Java and I'm slowly learning front-end, and after that I want to try to learn Node and SQL.  
+I'm currently a Computer Science student at UFRPE, I'm familiar with Java and I'm slowly learning front-end, and after that I want to try to learn Js + Node and DB.  
   
 
 <br/>  
@@ -37,10 +37,11 @@ I'm currently a Computer Science student at UFRPE, I'm familiar with Java and I'
 <table><tr><td valign="top" width="50%">
 
 ❗ Sei um pouco de C  
+❗ I know a bit about C  
   
 
-🕑 Pretendo fazer um projeto mais complexo usando Java e/ou Javascript  
-  
+🕑 Pretendo fazer um projeto mais complexo usando Java, e depois usando outras tecnologias que eu aprender mas estou sem ideias agora  
+🕑 I intend to make a more complex project using Java, and then with other technologies that I learn but I'm out of ideas now
 
 pt-BR, EN  
   
@@ -54,7 +55,7 @@ pt-BR, EN
 
 
 
-### Confortável em:  
+### Confortable with:  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
@@ -64,7 +65,7 @@ pt-BR, EN
 
 
 
-### Aprendendo:  
+### Learning:  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
@@ -76,7 +77,7 @@ pt-BR, EN
 
 
 
-### Interesse em:  
+### Interested in:  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
