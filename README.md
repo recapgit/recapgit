@@ -23,7 +23,7 @@
 
 
 ### Bem vindo(a) ao meu perfil - Welcome to my profile
-Atualmente sou um estudante de Ciência da Computação na UFRPE, sou familiarizado com Java e estou aprendendo aos poucos front-end, e depois disso tenho vontade de tentar aprender Js + Node e Banco de dados.
+Atualmente sou um estudante de Ciência da Computação na UFRPE, sou familiarizado com Java e estou aprendendo aos poucos front-end e JS + Node, e depois disso tenho vontade de tentar aprender mais profundamente Banco de dados.
 
 EN
 
@@ -35,13 +35,6 @@ I'm currently a Computer Science student at UFRPE, I'm familiar with Java and I'
 
 ##  Rapidfire  
 <table><tr><td valign="top" width="50%">
-
-❗ Sei um pouco de C  
-❗ I know a bit about C  
-  
-
-🕑 Pretendo fazer um projeto mais complexo usando Java, e depois usando outras tecnologias que eu aprender mas estou sem ideias agora  
-🕑 I intend to make a more complex project using Java, and then with other technologies that I learn but I'm out of ideas now
 
 pt-BR, EN  
   
