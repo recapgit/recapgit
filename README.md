@@ -35,7 +35,7 @@ I'm currently a Computer Science student at UFRPE, I'm familiar with Java and I'
 
 ##  Rapidfire  
 <table><tr><td valign="top" width="50%">
-
+Java, NodeJS, HTML+CSS básico
 pt-BR, EN  
   
   </td></tr></table>
