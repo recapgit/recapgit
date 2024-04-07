@@ -2,10 +2,10 @@
 </div>  
 
 
-## About me 👋  
+## E aí 👋  
 
 
-### Visit counter  
+### Contador de visitas  
 ![Profile views counter](https://komarev.com/ghpvc/?username=recapgit&&style=flat-square)  
   
 
