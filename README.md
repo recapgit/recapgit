@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/RichAmbitiousDiplodocus-max-1mb.gif" align="center" style="width: 100%" />
+<img src="https://cdna.artstation.com/p/assets/images/images/028/419/378/original/koen-leung-comp.gif?1594410959" align="center" style="width: 100%" />
 </div>  
 
 
