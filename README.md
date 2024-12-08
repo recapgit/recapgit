@@ -25,7 +25,7 @@
 ### Sobre mim
 Atualmente sou estudante de Ciência da Computação na UFRPE, sou familiarizado com Java e atualmente estou trabalhando com Python + Django.
 
-EN
+🇬🇧
 
 I'm currently a Computer Science student at UFRPE, I'm familiar with Java and now I'm working with Python and Django.  
   
