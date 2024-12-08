@@ -22,8 +22,8 @@
 
 
 
-### Bem vindo(a) ao meu perfil - Welcome to my profile
-Atualmente sou um estudante de Ciência da Computação na UFRPE, sou familiarizado com Java e atualmente estou trabalhando com Python + Django.
+### Sobre mim
+Atualmente sou estudante de Ciência da Computação na UFRPE, sou familiarizado com Java e atualmente estou trabalhando com Python + Django.
 
 EN
 
