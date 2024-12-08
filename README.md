@@ -23,11 +23,11 @@
 
 
 ### Bem vindo(a) ao meu perfil - Welcome to my profile
-Atualmente sou um estudante de Ciência da Computação na UFRPE, sou familiarizado com Java e estou aprendendo aos poucos front-end e JS + Node, e depois disso tenho vontade de tentar aprender mais profundamente Banco de dados.
+Atualmente sou um estudante de Ciência da Computação na UFRPE, sou familiarizado com Java e atualmente estou trabalhando com Python + Django.
 
 EN
 
-I'm currently a Computer Science student at UFRPE, I'm familiar with Java and I'm slowly learning front-end, and after that I want to try to learn Js + Node and DB.  
+I'm currently a Computer Science student at UFRPE, I'm familiar with Java and now I'm working with Python and Django.  
   
 
 <br/>  
