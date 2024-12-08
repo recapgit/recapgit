@@ -30,17 +30,7 @@ EN
 I'm currently a Computer Science student at UFRPE, I'm familiar with Java and now I'm working with Python and Django.  
   
 
-<br/>  
-
-
-##  Rapidfire  
-<table><tr><td valign="top" width="50%">
-Java, NodeJS, HTML+CSS básico,
-pt-BR, EN.  
-  
-  </td></tr></table>
-
-<br/>  
+<br/>    
 
 
 ## Languages and Tools  
@@ -79,28 +69,6 @@ pt-BR, EN.
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=recapgit&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recapgit&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
   
 
 <br/>  
